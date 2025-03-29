@@ -1,5 +1,6 @@
 # Viserosen
 - 👋 Hi, I’m @Viserosen
+- I like programming in C++
 
 
 <!---
